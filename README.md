@@ -109,3 +109,9 @@ and in browser:
 
 #References:
 https://pypi.org/project/Flask-PyMongo/
+https://www.mongodb.com/resources/products/fundamentals/mongodb-tutorials
+https://www.w3schools.com/mongodb/
+https://www.mongodb.com/resources/products/compatibilities/setting-up-flask-with-mongodb
+https://www.mongodb.com/developer/languages/python/flask-python-mongodb/
+https://www.mongodb.com/developer/products/mongodb/best-practices-flask-mongodb/
+https://www.digitalocean.com/community/tutorials/how-to-use-mongodb-in-a-flask-application
