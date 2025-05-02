@@ -17,7 +17,7 @@ load_dotenv()
 # app.config["MONGO_URI"] = "mongodb+srv://<database_user_username>:<database_user_password>@cluster0.lgrhnze.mongodb.net/<your_database_name>?retryWrites=true&w=majority&appName=Cluster0"
 
 # ----------------------------------------------
-# Change deakintor, TCS9MPoG9IyDhI2H and notes_db from here to your database username, database user password and your database name
+# Change deakintor, TCS9MPoG9IyDhI2H and notes_db from here to your database username, database user password and your database name [this URI won't work, its deleted]
 app.config["MONGO_URI"] = "mongodb+srv://deakintutor:TCS9MPoG9IyDhI2H@cluster0.lgrhnze.mongodb.net/notes_db?retryWrites=true&w=majority&appName=Cluster0"
 if not app.config["MONGO_URI"]:
     raise ValueError("MONGO_URI environment variable not set")
