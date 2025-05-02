@@ -99,5 +99,11 @@ In postman,
 
  <img src="screenshots/img_8.png" width="500">
 
+In Android App,
+
+<img src="screenshots/adding_note.png" width="200">
+<img src="screenshots/new_added_note.png" width="200">
+<img src="screenshots/delete_note.png" width="200">
+
 #References:
 https://pypi.org/project/Flask-PyMongo/
