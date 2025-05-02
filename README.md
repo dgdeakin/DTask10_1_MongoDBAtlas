@@ -101,9 +101,11 @@ and in browser:
 
 ### In Android App,
 
-<img src="screenshots/adding_note.png" width="100">
-<img src="screenshots/new_added_note.png" width="100">
-<img src="screenshots/delete_note.png" width="100">
+<div style="display: flex; gap: 10px;">
+  <img src="screenshots/adding_note.png" width="100">
+  <img src="screenshots/new_added_note.png" width="100">
+  <img src="screenshots/delete_note.png" width="100">
+</div>
 
 #References:
 https://pypi.org/project/Flask-PyMongo/
