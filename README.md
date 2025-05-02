@@ -36,7 +36,7 @@ The frontend simple sample application for android is provided here:
 
    - Then Create project.
 
-   <img src="screenshots/img_7.png" width=500>
+   <img src="screenshots/img_9.png" width=500>
 
    - Create cluster (Choose FREE Option)
 
