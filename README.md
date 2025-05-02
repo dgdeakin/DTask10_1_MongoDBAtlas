@@ -2,6 +2,7 @@
 # About the project (Informative Tutorial ONLY)
 This is a simple Flask application to show connection to MongoDB Atlas with CRUD application for notes.
 The frontend simple sample application for android is provided here:
+https://github.com/dgdeakin/TaskD10.1_AndroidFlaskMongoDBCRUDExample
 
 # To run both frontend and backend:
 - First run the backend. (Set up takes time like mongodb account, creating cluster etc.)
