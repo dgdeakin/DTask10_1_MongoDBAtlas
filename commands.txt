@@ -1,0 +1,7 @@
+python version = 3.12
+
+pip install Flask
+pip install Flask-PyMongo
+https://flask-pymongo.readthedocs.io/en/latest/
+pip install python-dotenv
+https://pypi.org/project/python-dotenv/
