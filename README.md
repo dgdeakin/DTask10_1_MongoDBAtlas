@@ -102,9 +102,9 @@ and in browser:
 ### In Android App,
 
 <div style="display: flex; gap: 10px;">
-  <img src="screenshots/adding_note.png" width="100">
-  <img src="screenshots/new_added_note.png" width="100">
-  <img src="screenshots/delete_note.png" width="100">
+  <img src="screenshots/adding_note.png" width="200">
+  <img src="screenshots/new_added_note.png" width="200">
+  <img src="screenshots/delete_note.png" width="200">
 </div>
 
 #References:
