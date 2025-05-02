@@ -95,15 +95,15 @@ and in browser:
 
 ##  3. If you don't see theses, just run the front end android app and add notes from there or use postman.
 
-In postman, 
+### In postman, 
 
  <img src="screenshots/img_8.png" width="500">
 
-In Android App,
+### In Android App,
 
-<img src="screenshots/adding_note.png" width="200">
-<img src="screenshots/new_added_note.png" width="200">
-<img src="screenshots/delete_note.png" width="200">
+<img src="screenshots/adding_note.png" width="100">
+<img src="screenshots/new_added_note.png" width="100">
+<img src="screenshots/delete_note.png" width="100">
 
 #References:
 https://pypi.org/project/Flask-PyMongo/
